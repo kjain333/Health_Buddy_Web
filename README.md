@@ -1,6 +1,6 @@
 # <img src="resources/images/logo.png" width = "400">
 
-HealthBuddy is a Machine-Learning powered complete Healthcare Application and Website system for your medical assistance.
+HealthBuddy is a Machine-Learning powered complete Healthcare Application and [Website](https://healthbuddy-hb.herokuapp.com/) system for your medical assistance.
 
 ## Installation
 
